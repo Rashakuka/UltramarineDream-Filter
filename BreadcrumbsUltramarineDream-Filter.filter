@@ -197,7 +197,7 @@ Show
 # Scroll of Wisdom Management
 #------------------------------------------------
 
-Hide
+Show
     BaseType "Scroll of Wisdom"
     AreaLevel >= 65
     Rarity <= Magic
