@@ -1759,7 +1759,7 @@ PlayEffect Yellow
 #Tier D - Greyed out, transparent, and smaller to decluter the screen - in most cases not worth picking up.
 
 Hide
-AreaLevel >= 65
+AreaLevel >= 120
 BaseType "Scroll of Wisdom" "Shard" "Orb of Augmentation" "Orb of Transmutation"
 SetFontSize 32
 SetTextColor 255 255 255 200
