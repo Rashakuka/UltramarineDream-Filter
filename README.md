@@ -28,5 +28,5 @@ This script is NOT a hack or mod. It is written using the official PoE filter la
    - Linux via Steam Proton (example): `steamapps/compatdata/2694490/pfx/drive_c/users/steamuser/My Documents/My Games/Path of Exile 2`
 3. **In-Game**:  
    - Press `ESC` -> `Options` -> `Game` -> Scroll down to "Item Filters".
-   - Select `NeverSinksLitePoE2.filter` from the dropdown.
+   - Select `UltramarineDream.filter` from the dropdown.
 4. **Done!** Enjoy improved item visibility.
